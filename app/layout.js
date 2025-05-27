@@ -56,14 +56,7 @@ export default function RootLayout({ children }) {
           >
             <FaLinkedin size={24} />
           </a>
-          // <a
-          //   href="https://x.com/vikash_sinha_"
-          //   target="_blank"
-          //   rel="noopener noreferrer"
-          //   className="text-gray-200 hover:text-gray-400 transition duration-300"
-          // >
-          //   <FaTwitter size={24} />
-          // </a>
+         
         </div>
       </div>
     </footer>
