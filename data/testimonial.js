@@ -19,7 +19,7 @@ export const testimonial = [
     quote:
       "My resume's ATS score improved significantly. Got more interviews in two weeks than in six months!",
     author: "vikash sinha",
-    image: "https://mdbcdn.b-cdn.net/img/new/avatars/2.webp",
+    image: "https://drive.google.com/file/d/1NCTdBwrNneO-b28rPMClRNOxwtBkKdkJ/view?usp=sharing",
     role: "Data Analytics",
     company: "wallmart",
   },
